@@ -6,6 +6,7 @@
 #include <unistd.h>
 #define BUF_SIZE 30
 void error_handling(char *message);
+#test
 
 int main(int argc, char *argv[]){
 	int sd;
